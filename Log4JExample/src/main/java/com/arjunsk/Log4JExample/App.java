@@ -11,6 +11,9 @@ public class App
     {
     	///test
 
+    	LOGGER.debug("Experimenting Git Checkout!!!");
+    	
+    	
     	LOGGER.debug("Debug Message Logged !!!");
         LOGGER.info("Info Message Logged !!!");
         LOGGER.error("Error Message Logged !!!", new NullPointerException("NullError"));
