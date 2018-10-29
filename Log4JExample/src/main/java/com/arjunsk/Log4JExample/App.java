@@ -9,6 +9,7 @@ public class App
 	
     public static void main( String[] args )
     {
+    	///test
 
     	LOGGER.debug("Debug Message Logged !!!");
         LOGGER.info("Info Message Logged !!!");
